@@ -15,6 +15,6 @@ The next part begins the exploratory analysis. From here the process was fairly 
 3) What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score nearest to the new restaurant add, "Penang Flavours"?
 4) How many establishments in each Local Authority are have a hygiene score of 0 (sorted from highest to lowest)?
 
-Each section of the written code is designed to provide the answers to those questions.
+Each section of the written code is designed to provide the answers to those questions, and print said answers using pprint or Pandas
 
 The code from the terminal and throughout the Jupyter notebook was written based on in class examples and my copy of Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter 3rd Editiion by Wes McKinney (https://wesmckinney.com/book/). Additionally, I used both the CodePal Code Reviewer (https://codepal.ai/code-reviewer) and CodePal Bug Decector (https://codepal.ai/bug-detector) to assist in troubleshooting my code.
